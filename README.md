@@ -1,6 +1,6 @@
 # Packt
 
-**Turn a community into a trading card set.** Make a card about yourself, add it to
+*Turn a community into a trading card set.** Make a card about yourself, add it to
 your event's shared binder, and earn one sealed pack — open it to pull one random
 card of someone else in the room.
 ---
