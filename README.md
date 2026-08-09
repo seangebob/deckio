@@ -3,16 +3,6 @@
 **Turn a community into a trading card set.** Make a card about yourself, add it to
 your event's shared binder, and earn one sealed pack — open it to pull one random
 card of someone else in the room.
-
-<p>
-  <img alt="Next.js 16" src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="React 19" src="https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%C2%B7%20Auth%20%C2%B7%20Storage-3ECF8E?logo=supabase&logoColor=white" />
-  <img alt="Tailwind v4" src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white" />
-</p>
-
 ---
 
 ## About
@@ -52,16 +42,16 @@ same shared page (`?collector=me`), which is also how you view anyone else's
 
 | | |
 | --- | --- |
-| 🎴 **Live card composer** | Photo, two of eight prompts, a fun fact and a link — with the finished card rendering next to the form as you type. |
-| 📦 **The pack-opening ceremony** | The one dark surface in the product. A foil pack rattles under tension, the seam flashes, the ripped crown sails off the top of the frame and the body drops out the bottom, and the card arrives. |
-| 📒 **Nine-pocket binder** | Real binder geometry — punched rings, page turns from the edge of the sheet, and empty pockets left in place so a thin set reads as an invitation. |
-| 🔍 **Three views, one route** | The whole set, your lens, or any other member's — same URL, same component, same query. |
-| 📚 **Bookshelf of sets** | Every binder stands as a spine on a plank; hover pulls one forward. Organisers create new event binders in-app. |
-| 🃏 **Card as an object** | A keylined art window in a coloured mat, a pointer-driven foil sheen, a 3D tilt, a stamped serial and set code, and a printed back it flips to. |
-| ⚡ **Realtime binder** | New contributions land in open binders without a refresh, with a polling fallback for large rooms. |
-| 🔐 **Rules as database invariants** | Six collection rules enforced by constraints, triggers and row locks — not by frontend checks. |
-| 📱 **Phone-first** | The whole loop is designed for a photo taken and uploaded on the device it was shot on, over event wifi. |
-| ♿ **Accessible** | Zero WCAG 2.1 A/AA violations from `axe-core` across all five screens; every animation has a `prefers-reduced-motion` path. |
+|**Live card composer** | Photo, two of eight prompts, a fun fact and a link — with the finished card rendering next to the form as you type. |
+|**The pack-opening ceremony** | The one dark surface in the product. A foil pack rattles under tension, the seam flashes, the ripped crown sails off the top of the frame and the body drops out the bottom, and the card arrives. |
+|**Nine-pocket binder** | Real binder geometry — punched rings, page turns from the edge of the sheet, and empty pockets left in place so a thin set reads as an invitation. |
+|**Three views, one route** | The whole set, your lens, or any other member's — same URL, same component, same query. |
+|**Bookshelf of sets** | Every binder stands as a spine on a plank; hover pulls one forward. Organisers create new event binders in-app. |
+|**Card as an object** | A keylined art window in a coloured mat, a pointer-driven foil sheen, a 3D tilt, a stamped serial and set code, and a printed back it flips to. |
+|**Realtime binder** | New contributions land in open binders without a refresh, with a polling fallback for large rooms. |
+|**Rules as database invariants** | Six collection rules enforced by constraints, triggers and row locks — not by frontend checks. |
+|**Phone-first** | The whole loop is designed for a photo taken and uploaded on the device it was shot on, over event wifi. |
+|**Accessible** | Zero WCAG 2.1 A/AA violations from `axe-core` across all five screens; every animation has a `prefers-reduced-motion` path. |
 
 ---
 
